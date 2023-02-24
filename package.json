@@ -12,11 +12,11 @@
     "@sveltejs/vite-plugin-svelte": "^2.0.2",
     "nodemon": "^2.0.20",
     "svelte": "^3.55.1",
-    "svelte-navigator": "^3.2.2",
     "vite": "^4.1.0"
   },
   "dependencies": {
     "express": "^4.18.2",
+    "uipress": "file:../uipress",
     "vite-express": "^0.3.1"
   }
 }
